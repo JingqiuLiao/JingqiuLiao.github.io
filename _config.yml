@@ -1,0 +1,48 @@
+title: Jingqiu Liao
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Homepage 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+encoding: "utf-8"
+
+author:
+  name        : "Jingqiu Liao"
+  home        : "/"
+  bio         : "Less is more."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Google Scholar"
+      icon: "fa fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=yfjh29UAAAAJ"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Jingqiu_Liao2"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/cv/CV_Jingqiu_Liao.pdf"  
+
+# Build settings
+markdown: kramdown
+# theme: minima
+remote_theme: mmistakes/minimal-mistakes@4.15.2
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# destination: ./docs
+# permalink: none
+# search: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - run.sh
