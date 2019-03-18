@@ -1,4 +1,5 @@
 title: Jingqiu Liao
+email: jl3374@cornel.edu
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Homepage 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,6 +30,13 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+
+  # Analytics
+analytics:
+  provider               : google # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-88002009-1
+    anonymize_ip         : # true, false (default)
 
 # destination: ./docs
 # permalink: none
