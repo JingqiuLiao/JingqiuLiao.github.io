@@ -10,7 +10,7 @@ permalink: /research/
 _Listeria_ is a diverse Gram-positive bacterial genus, which contains 2 pathogenic (_L. monocytogenes_ and _L. ivanovii_) and 18 non-pathogenic species. Soil, the primary habitat of _Listeria_, is a critical transmission source of _Listeria_ to plants, animals, and food chains. I'm conducting soil sampling at a nation-wide scale to decipher the biogeographic pattern of _Listeria_ in soil from natural environment. By quantifying the importance of soil properties, landscape, and neutral factors, and by using population genomics, I explore the influence of various ecological and evolutionary processes on the distribution of _Listeria_.
 {: .text-justify}
 
-Check out this fun video showing how we obtained and processed soil samples collected across the continental US! 
+Check out this fun video showing how we obtained and processed soil samples collected across the contiguous US! 
 {: .text-justify}
 
 <video style="width:100%;" controls poster="/assets/images/Listeria_sampling_cover.jpg">
