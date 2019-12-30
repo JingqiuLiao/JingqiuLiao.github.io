@@ -23,7 +23,7 @@ __Liao J__, Cao X, Wang J, Zhao L, Sun J, Jiang D, Huang Y. _Limnol Oceanogr_ 62
 Cao X, Wang J, __Liao J__, Gao Z, Jiang D, Sun J, Zhao L, Huang Y, Luan S. _Sci Total Environ_ 580: 457-467
 
 ### 2016
-[_Cyanobacteria_ are assembled via niche process influenced by water physicochemical property, lake morphology and watershed land-use](http://dx.doi.org/10.1038/srep36357){:target="_blank"}\\
+[_Cyanobacteria_ in lakes on Yungui Plateau, China are assembled via niche processes driven by water physicochemical property, lake morphology and watershed land-use](http://dx.doi.org/10.1038/srep36357){:target="_blank"}\\
 __Liao J__, Zhao L, Cao X, Sun J, Gao Z, Wang J, Jiang D, Fan H, Huang Y. _Sci Rep_ 6: 36357 
 
 [The importance of neutral and niche processes for bacterial community assembly differs between habitat generalists and specialists](http://dx.doi.org/10.1093/femsec/fiw174){:target="_blank"}\\
