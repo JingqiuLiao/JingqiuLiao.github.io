@@ -3,9 +3,13 @@ layout: single
 title: Selected Publications
 permalink: /publications/
 ---
+
+### 2020
+[Comparative genomics reveals different population structures associated with host and geographic origin in antimicrobial-resistant _Salmonella enterica_](https://www.biorxiv.org/content/10.1101/2020.01.28.923664v1){:target="_blank"}\\
+__Liao J__, Orsi RH, Carroll LM, Wiedmann M. _bioRxiv_
+
 ### 2019
-[Serotype-specific evolutionary patterns of antimicrobial-resistant
-_Salmonella enterica_](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1457-5){:target="_blank"}\\
+[Serotype-specific evolutionary patterns of antimicrobial-resistant _Salmonella enterica_](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1457-5){:target="_blank"}\\
 __Liao J__, Orsi RH, Carroll LM, Kovac J, Ou H, Zhang H, Wiedmann M. _BMC Evol Biol_ 19:132
 
 ### 2018
