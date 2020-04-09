@@ -56,9 +56,9 @@ Yang Y, Wang J, __Liao J__, Xie S, Huang Y. _Appl Microbiol Biotechnol_ 99:1935-
 [Distribution of naphthalene dioxygenase genes in crude oil contaminated soils](http://dx.doi.org/10.1007/s00248-014-0457-7){:target="_blank"}\\
 Yang Y, Wang J, __Liao J__, Xie S, Huang Y. _Microb Ecol_ 68:785-793
 
-### 2013
+<!-- ### 2013
 [Global trend in aquatic ecosystem research from 1992 to 2011](http://dx.doi.org/10.1007/s11192-013-1071-z){:target="_blank"}\\
-__Liao J__, Huang Y. _Scientometrics_ 98:1203-1219
+__Liao J__, Huang Y. _Scientometrics_ 98:1203-1219 -->
 
 \\
 You can find the full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=yfjh29UAAAAJ){:target="_blank"}.
