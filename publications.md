@@ -13,8 +13,8 @@ __Liao J__, Orsi RH, Carroll LM, Wiedmann M. _Environ Microbiol_ (in press)
 __Liao J__, Orsi RH, Carroll LM, Kovac J, Ou H, Zhang H, Wiedmann M. _BMC Evol Biol_ 19:132
 
 ### 2018
-[Oil contamination and toxicity assessment of soil in main oil fields in China](#){:target="_blank"}\\
-Huang Y, Wang J, Chen H, __Liao J__, Huang M.  Science Press, Beijing, China.
+[Oil contamination and toxicity assessment of soil in main oil fields of China](#){:target="_blank"}\\
+Huang Y, Wang J, Chen H, __Liao J__, Huang M.  Science Press, Beijing, China. (Book)
 
 ### 2017
 [Genetic stability and evolution of the _sigB_ allele, used for _Listeria sensu stricto_ subtyping and phylogenetic inference](http://aem.asm.org/content/83/12/e00306-17.abstract){:target="_blank"}\\
