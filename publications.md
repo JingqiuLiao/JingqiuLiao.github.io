@@ -5,8 +5,11 @@ permalink: /publications/
 ---
 
 ### 2020
+[A phage-encoded anti-CRISPR enables complete evasion of type VI-A CRISPR-Cas immunity](https://science.sciencemag.org/content/early/2020/05/27/science.abb6151){:target="_blank"}\\
+Meeske AJ, Jia N, Cassel AK, Kozlova A, __Liao J__, Wiedmann M, Patel DJ, Marraffini LA. _Science_ (In Press)
+
 [Comparative genomics reveals different population structures associated with host and geographic origin in antimicrobial-resistant _Salmonella enterica_](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15014?af=R){:target="_blank"}\\
-__Liao J__, Orsi RH, Carroll LM, Wiedmann M. _Environ Microbiol_ 
+__Liao J__, Orsi RH, Carroll LM, Wiedmann M. _Environ Microbiol_ (In Press)
 
 ### 2019
 [Serotype-specific evolutionary patterns of antimicrobial-resistant _Salmonella enterica_](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1457-5){:target="_blank"}\\
