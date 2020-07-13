@@ -9,10 +9,10 @@ permalink: /publications/
 __Liao J__, Bergholz P, Wiedmann M. _bioRxiv_ doi:10.1101/2020.06.30.181495
 
 [A phage-encoded anti-CRISPR enables complete evasion of type VI-A CRISPR-Cas immunity](https://science.sciencemag.org/content/early/2020/05/27/science.abb6151){:target="_blank"}\\
-Meeske AJ, Jia N, Cassel AK, Kozlova A, __Liao J__, Wiedmann M, Patel DJ, Marraffini LA. _Science_ 369: 54-59
+Meeske AJ, Jia N, Cassel AK, Kozlova A, __Liao J__, Wiedmann M, Patel DJ, Marraffini LA. _Science_ 369:54-59
 
 [Comparative genomics reveals different population structures associated with host and geographic origin in antimicrobial-resistant _Salmonella enterica_](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15014?af=R){:target="_blank"}\\
-__Liao J__, Orsi RH, Carroll LM, Wiedmann M. _Environ Microbiol_ doi:10.1111/1462-2920.15014
+__Liao J__, Orsi RH, Carroll LM, Wiedmann M. _Environ Microbiol_ 22:2811-2828
 
 ### 2019
 [Serotype-specific evolutionary patterns of antimicrobial-resistant _Salmonella enterica_](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1457-5){:target="_blank"}\\
@@ -24,20 +24,20 @@ Huang Y, Wang J, Chen H, __Liao J__, Huang M.  Science Press, Beijing, China. (B
 
 ### 2017
 [Genetic stability and evolution of the _sigB_ allele, used for _Listeria sensu stricto_ subtyping and phylogenetic inference](http://aem.asm.org/content/83/12/e00306-17.abstract){:target="_blank"}\\
-__Liao J__, Wiedmann M, Kovac J. _Appl Environ Microbiol_ 83: e00306-17 
+__Liao J__, Wiedmann M, Kovac J. _Appl Environ Microbiol_ 83:e00306-17 
 
 [Similar community assembly mechanisms underlie similar biogeography of rare and abundant bacteria in lakes on Yungui Plateau, China](http://onlinelibrary.wiley.com/doi/10.1002/lno.10455/full){:target="_blank"}\\
-__Liao J__, Cao X, Wang J, Zhao L, Sun J, Jiang D, Huang Y. _Limnol Oceanogr_ 62: 723-735
+__Liao J__, Cao X, Wang J, Zhao L, Sun J, Jiang D, Huang Y. _Limnol Oceanogr_ 62:723-735
 
 [Bacterioplankton communities response to key environmental variables in plateau freshwater lake ecosystems: a structural equation modeling analysis](http://dx.doi.org/10.1016/j.scitotenv.2016.11.143){:target="_blank"}\\
-Cao X, Wang J, __Liao J__, Gao Z, Jiang D, Sun J, Zhao L, Huang Y, Luan S. _Sci Total Environ_ 580: 457-467
+Cao X, Wang J, __Liao J__, Gao Z, Jiang D, Sun J, Zhao L, Huang Y, Luan S. _Sci Total Environ_ 580:457-467
 
 ### 2016
 [_Cyanobacteria_ in lakes on Yungui Plateau, China are assembled via niche processes driven by water physicochemical property, lake morphology and watershed land-use](http://dx.doi.org/10.1038/srep36357){:target="_blank"}\\
-__Liao J__, Zhao L, Cao X, Sun J, Gao Z, Wang J, Jiang D, Fan H, Huang Y. _Sci Rep_ 6: 36357 
+__Liao J__, Zhao L, Cao X, Sun J, Gao Z, Wang J, Jiang D, Fan H, Huang Y. _Sci Rep_ 6:36357 
 
 [The importance of neutral and niche processes for bacterial community assembly differs between habitat generalists and specialists](http://dx.doi.org/10.1093/femsec/fiw174){:target="_blank"}\\
-__Liao J__, Cao X, Zhao L, Wang J, Gao Z, Wang MC, Huang Y. _FEMS Microbiol Ecol_ 92: fiw174
+__Liao J__, Cao X, Zhao L, Wang J, Gao Z, Wang MC, Huang Y. _FEMS Microbiol Ecol_ 92:fiw174
 
 [Oxidative damage of naphthenic acids on the _Eisenia fetida_ earthworm](http://dx.doi.org/10.1002/tox.22139){:target="_blank"}\\
 Wang J, Cao X, Chai L, __Liao J__, Huang Y, Tang X. _Environ Toxico_ 31:1337-1343
