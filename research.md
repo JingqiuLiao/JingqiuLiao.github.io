@@ -42,6 +42,7 @@ _S. enterica_, an important human and animal pathogen, contains >2,500 recognize
 
 [Serotype-specific evolutionary patterns of antimicrobial-resistant _Salmonella enterica_](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1457-5){:target="_blank"}\\
 __Liao J__, Orsi RH, Carroll LM, Kovac J, Ou H, Zhang H, Wiedmann M. _BMC Evol Biol_ 19:132
+{: .text-justify}
 [Comparative genomics reveals different population structures associated with host and geographic origin in antimicrobial-resistant _Salmonella enterica_](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15014?af=R){:target="_blank"}\\
 __Liao J__, Orsi RH, Carroll LM, Wiedmann M. _Environ Microbiol_ 22:2811-2828
 {: .text-justify}
@@ -65,8 +66,10 @@ deterministic processes driven by water property, lake morphology and watershed 
 
 [The importance of neutral and niche processes for bacterial community assembly differs between habitat generalists and specialists](http://dx.doi.org/10.1093/femsec/fiw174){:target="_blank"}\\
 __Liao J__, Cao X, Zhao L, Wang J, Gao Z, Wang MC, Huang Y. _FEMS Microbiol Ecol_ 92:fiw174
+{: .text-justify}
 [Similar community assembly mechanisms underlie similar biogeography of rare and abundant bacteria in lakes on Yungui Plateau, China](http://onlinelibrary.wiley.com/doi/10.1002/lno.10455/full){:target="_blank"}\\
 __Liao J__, Cao X, Wang J, Zhao L, Sun J, Jiang D, Huang Y. _Limnol Oceanogr_ 62:723-735
+{: .text-justify}
 [_Cyanobacteria_ in lakes on Yungui Plateau, China are assembled via niche processes driven by water physicochemical property, lake morphology and watershed land-use](http://dx.doi.org/10.1038/srep36357){:target="_blank"}\\
 __Liao J__, Zhao L, Cao X, Sun J, Gao Z, Wang J, Jiang D, Fan H, Huang Y. _Sci Rep_ 6:36357 
 {: .text-justify}
@@ -77,6 +80,7 @@ While crude oil extraction is of immense importance for energy and economy, hydr
 
 [Bacterial community features are shaped by geographic location, physicochemical properties and oil contamination of soil in main oil fields of China](http://dx.doi.org/10.1007/s00248-015-0572-0){:target="_blank"}\\
 __Liao J__, Wang J, Huang Y. _Microb Ecol_ 70:380-389
+{: .text-justify}
 [Long-term oil contamination causes similar changes in microbial communities of two distinct soils](http://dx.doi.org/10.1007/s00253-015-6880-y){:target="_blank"}\\
 __Liao J__, Wang J, Jiang D, Wang M, Huang Y. _Appl Microbiol Biotechnol_ 99:10299-10310
 {: .text-justify}
