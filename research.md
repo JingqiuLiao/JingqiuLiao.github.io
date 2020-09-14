@@ -7,7 +7,7 @@ permalink: /research/
 ### Large-scale biogeography ~ Genomics
 
 ![image-right](/assets/images/Research/Slide1.png){: .align-right}
-As the most abundant and diverse organisms on Earth, microbes' distribution in nature remain largely undocumented, particularly at a large spatial scale. To enrich microbial databases and to improve the understanding of biological strategies that microbes adopt to occupy niches, we conducted nation-wide soil sampling to collect _Listeria_ from natural environments across the contiguous US. _Listeria_ is a diverse Gram-positive bacterial genus, which includes the major causative agent of food-borne disease listeriosis, _L. monocytogenes_. By mining genomic and environmental data, I explore mechanisms underlying the niche breadth of _Listeria_. 
+As the most abundant and diverse organisms on Earth, microbes' distribution in nature remain largely undocumented, particularly at a large spatial scale. To enrich microbial databases and to improve the understanding of biological strategies that microbes adopt to occupy niches, we conducted nation-wide soil sampling to collect _Listeria_ from natural environments across the contiguous US. _Listeria_ is a diverse Gram-positive bacterial genus, which includes the major causative agent of food-borne disease listeriosis, _L. monocytogenes_. By mining genomic and environmental data, I am exploring mechanisms underlying the niche breadth of _Listeria_. 
 {: .text-justify}
 
 Check out this fun video showing how we obtained and processed soil samples! Shout out to our amazing sampling team! Thanks to the hard work in sampling at such a large scale, a number of new (and weird) _Listeria_ species have been discovered. 
@@ -25,7 +25,7 @@ Genetic variation in a bacterial population can occur as a result of dissimilari
 
 ![image-right](/assets/images/Research/Slide2.png){: .align-right}
 
-*  {: .text-justify} While _Listeria_ primarily inhabits in natural environments, it has been frequently isolated from food-associated environments, which pose thread to food safety. To identify genetic evidence of ecological differentiation and inter-environment transmission, I characterize _Listeria_ isolates collected from soil, food processing facilities, and agricultural water using whole genome sequencing and compare a number of genomic features between isolates from natural and food-associated environments using differential analyses. 
+*  {: .text-justify} While _Listeria_ primarily inhabits in natural environments, it has been frequently isolated from food-associated environments, which pose thread to food safety. To identify genetic evidence of ecological differentiation and inter-environment transmission, I am characterizing _Listeria_ isolates collected from soil, food processing facilities, and agricultural water using whole genome sequencing and comparing a number of genomic features between isolates from natural and food-associated environments using differential analyses. 
 
 
 ![image-right](/assets/images/Research/Slide3.png){: .align-right}
@@ -43,7 +43,7 @@ Genetic variation in a bacterial population can occur as a result of dissimilari
 
 ### Distribution and diversity ~ Ecological forces
 
-Understanding ecological forces driving the change in microbial composition from local to regional scales is a central theme in microbial ecology and biogeography. It is known that microbial distribution and diversity can be governed by deterministic and neutral ecological processes jointly. My goal is to disentangle the roles of ecological processes underlying the distribution and diversity of microbes from specific environments and to seek generic principles. I study model organisms as well as microbial communities with a focus on selection, dispersal, and drift. 
+Understanding ecological forces driving the change in microbial composition from local to regional scales is a central theme in microbial ecology and biogeography. It is known that microbial distribution and diversity can be governed by deterministic and neutral ecological processes jointly. My goal is to disentangle the roles of ecological processes underlying the distribution and diversity of microbes from specific environments and to seek generic principles. I study model organisms as well as microbial communities with a focus on environmental selection, dispersal, and ecological drift. 
 
 ![image-right](/assets/images/Research/Slide5.png){: .align-right}
 
