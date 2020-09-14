@@ -11,6 +11,7 @@ As the most abundant and diverse organisms on Earth, microbes' distribution in n
 {: .text-justify}
 
 Check out this fun video showing how we obtained and processed soil samples! Shout out to our amazing sampling team! Thanks to our effort in sampling at such a large scale, a number of new (and weird) _Listeria_ species have been discovered. 
+{: .text-justify}
 
 <video style="width:100%;" controls poster="/assets/images/Listeria_sampling_cover.jpg">
   <source src="/assets/videos/Listeria_sampling.webm" type="video/webm">
@@ -20,7 +21,8 @@ Your browser does not support displaying video. Please <a href="/assets/videos/L
 
 ### Population structure ~ Environment 
 
-Genetic variation in a bacterial population can occur as a result of dissimilarities of ecological niches, which may represent distinct habitats, hosts, and geographic locations. To identify environment-associated population structure and evolutionary drivers of genetic diversity, I study two bacterial genera vital to public health, _Listeria_ and _Salmonella_, using tools of population genomics and population genetics. 
+Genetic variation in a bacterial population can occur as a result of dissimilarities of ecological niches, which may represent distinct habitats, hosts, and geographic locations. To identify environment-associated population structure and evolutionary drivers of genetic diversity, I study two bacterial genera vital to public health, _Listeria_ and _Salmonella_, using tools of population genomics and population genetics.
+{: .text-justify} 
 
 
 ![image-right](/assets/images/Research/Slide2.png){: .align-right}
@@ -43,7 +45,8 @@ Genetic variation in a bacterial population can occur as a result of dissimilari
 
 ### Distribution and diversity ~ Ecological forces
 
-Understanding ecological forces driving the change in microbial composition from local to regional scales is a central theme in microbial ecology and biogeography. It is known that microbial distribution and diversity can be governed by deterministic and neutral ecological processes jointly. My goal is to disentangle the roles of ecological processes underlying the distribution and diversity of microbes from specific environments and to seek generic principles. I study model organisms as well as microbial communities with a focus on environmental selection, dispersal, and ecological drift. 
+Understanding ecological forces driving the change in microbial composition from local to regional scales is a central theme in microbial ecology and biogeography. It is known that microbial distribution and diversity can be governed by deterministic and neutral ecological processes jointly. My goal is to disentangle the roles of ecological processes underlying the distribution and diversity of microbes from specific environments and to seek generic principles. I study model organisms as well as microbial communities with a focus on environmental selection, dispersal, and ecological drift.
+{: .text-justify} 
 
 ![image-right](/assets/images/Research/Slide5.png){: .align-right}
 
