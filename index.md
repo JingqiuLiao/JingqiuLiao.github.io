@@ -17,8 +17,8 @@ My research interests span microbial evolution, microbial ecology, environmental
 
 <table style="width:100%">
 <tr>
-	<td width="50%"><a  href="mailto:jl3374@cornell.edu" title="Email me"><i class="fa fa-fw fa-envelope"></i> jl3374@cornell.edu</a></td>
-	<td width="50%"><a href="https://www.google.com/maps/place/Stocking+Hall+-+Department+of+Food+Science,+Ithaca,+NY+14850/@42.4471104,-76.4710982,17z/data=!4m2!3m1!1s0x89d081f635ffd94d:0x20c8f93819d59c15" title="Show on map" target="_blank"><i class="fa fa-fw fa-map-marker"></i> Food Safety Lab, 324 Stocking Hall</a></td>
+	<td width="50%"><a  href="mailto:jl5898@cumc.columbia.edu" title="Email me"><i class="fa fa-fw fa-envelope"></i> jl5898@cumc.columbia.edu</a></td>
+	<td width="50%"><a href="https://www.google.com/maps/search/Presbyterian+Hospital+building+COLUMBIA+/@40.8413779,-73.9440629,17z" title="Show on map" target="_blank"><i class="fa fa-fw fa-map-marker"></i> Presbyterian Hospital building, Columbia University Irving Medical Center </a></td>
 </tr>
 </table>
 
