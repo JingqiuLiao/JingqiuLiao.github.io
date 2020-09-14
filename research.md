@@ -58,7 +58,7 @@ deterministic processes driven by water property, lake morphology and watershed 
 
    __Liao J__, Cao X, Zhao L, Wang J, Gao Z, Wang MC, Huang Y. [The importance of neutral and niche processes for bacterial community assembly differs between habitat generalists and specialists](http://dx.doi.org/10.1093/femsec/fiw174){:target="_blank"} _FEMS Microbiol Ecol_ 92:fiw174\\
    __Liao J__, Cao X, Wang J, Zhao L, Sun J, Jiang D, Huang Y. [Similar community assembly mechanisms underlie similar biogeography of rare and abundant bacteria in lakes on Yungui Plateau, China](http://onlinelibrary.wiley.com/doi/10.1002/lno.10455/full){:target="_blank"} _Limnol Oceanogr_ 62:723-735\\
-   [_Cyanobacteria_ in lakes on Yungui Plateau, China are assembled via niche processes driven by water physicochemical property, lake morphology and watershed land-use](http://dx.doi.org/10.1038/srep36357){:target="_blank"} __Liao J__, Zhao L, Cao X, Sun J, Gao Z, Wang J, Jiang D, Fan H, Huang Y. _Sci Rep_ 6:36357 
+   __Liao J__, Zhao L, Cao X, Sun J, Gao Z, Wang J, Jiang D, Fan H, Huang Y. [_Cyanobacteria_ in lakes on Yungui Plateau, China are assembled via niche processes driven by water physicochemical property, lake morphology and watershed land-use](http://dx.doi.org/10.1038/srep36357){:target="_blank"} _Sci Rep_ 6:36357 
 
 ![image-right](/assets/images/Research/Slide7.png){: .align-right}
 
