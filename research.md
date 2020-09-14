@@ -10,7 +10,7 @@ permalink: /research/
 As the most abundant and diverse organisms on Earth, microbes' distribution in nature remain largely undocumented, particularly at a large spatial scale. To enrich microbial databases and to improve the understanding of biological strategies that microbes adopt to occupy niches, we conducted nation-wide soil sampling to collect _Listeria_ from natural environments across the contiguous US. _Listeria_ is a diverse Gram-positive bacterial genus, which includes the major causative agent of food-borne disease listeriosis, _L. monocytogenes_. By mining genomic and environmental data, I am exploring mechanisms underlying the niche breadth of _Listeria_. 
 {: .text-justify}
 
-Check out this fun video showing how we obtained and processed soil samples! Shout out to our amazing sampling team! Thanks to the hard work in sampling at such a large scale, a number of new (and weird) _Listeria_ species have been discovered. 
+Check out this fun video showing how we obtained and processed soil samples! Shout out to our amazing sampling team! Thanks to our effort in sampling at such a large scale, a number of new (and weird) _Listeria_ species have been discovered. 
 
 <video style="width:100%;" controls poster="/assets/images/Listeria_sampling_cover.jpg">
   <source src="/assets/videos/Listeria_sampling.webm" type="video/webm">
