@@ -17,7 +17,7 @@ My research interests span microbial evolution, microbial ecology, environmental
 
 <table style="width:100%">
 <tr>
-	<td width="50%"><a  href="mailto:jl5898@cumc.columbia.edu" title="Email me"><i class="fa fa-fw fa-envelope"></i> jl5898@cumc.columbia.edu</a></td>
+	<td width="50%"><a  href="mailto:jl5897@cumc.columbia.edu" title="Email me"><i class="fa fa-fw fa-envelope"></i> jl5897@cumc.columbia.edu</a></td>
 	<td width="50%"><a href="https://www.google.com/maps/search/Columbia+University+Irving+Medical+Center/@40.8417689,-73.9441223,17z/data=!3m1!4b1" title="Show on map" target="_blank"><i class="fa fa-fw fa-map-marker"></i> Columbia University Irving Medical Center </a></td>
 </tr>
 </table>
