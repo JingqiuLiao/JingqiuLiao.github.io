@@ -45,7 +45,7 @@ Genetic variation in a bacterial population can occur as a result of dissimilari
 
 ### Distribution and diversity ~ Ecological forces
 
-Understanding ecological forces driving the change in microbial composition from local to regional scales is a central theme in microbial ecology and biogeography. It is known that microbial distribution and diversity can be governed by deterministic and neutral ecological processes jointly. My goal is to disentangle the roles of ecological processes underlying the distribution and diversity of microbes from specific environments and to seek generic principles. I study model organisms as well as microbial communities with a focus on environmental selection, dispersal, and ecological drift.
+Understanding ecological forces driving the change in microbial composition from local to regional scales is a central theme in microbial ecology and biogeography. It is known that microbial distribution and diversity can be governed by deterministic and neutral ecological processes jointly. My goal is to disentangle the roles of ecological processes underlying the distribution and diversity of microbes from specific environments and to seek generic principles. I study microbial populations as well as microbial communities with a focus on environmental selection, dispersal, and ecological drift.
 {: .text-justify} 
 
 ![image-right](/assets/images/Research/Slide5.png){: .align-right}
