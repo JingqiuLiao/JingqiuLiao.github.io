@@ -21,7 +21,7 @@ Your browser does not support displaying video. Please <a href="/assets/videos/L
 
 ### Population structure ~ Environment 
 
-Genetic variation in a bacterial population can occur as a result of dissimilarities of ecological niches, which may represent distinct habitats, hosts, and geographic locations. To identify environment-associated population structure and evolutionary drivers of genetic diversity, I study two bacterial genera vital to public health, _Listeria_ and _Salmonella_, using tools of population genomics and population genetics.
+Genetic variation in a bacterial population can occur as a result of dissimilarities of ecological niches, which may represent distinct habitats, hosts, and geographic locations. To identify environment-associated population structure and evolutionary drivers of genetic diversity, I study two bacterial genera vital to public health, _Listeria_ and _Salmonella_, using tools of population genetics and genomics.
 {: .text-justify} 
 
 
