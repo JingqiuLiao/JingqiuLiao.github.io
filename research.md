@@ -32,7 +32,7 @@ Genetic variation in a bacterial population can occur as a result of dissimilari
 
 ![image-right](/assets/images/Research/Slide3.png){: .align-right}
 
-*  {: .text-justify} Sequencing of _sigB_, which encodes a stress responsive alternative sigma factor, has emerged as a widely used molecular tool for rapid classification of diverse _Listeria_ isolates. To assess the validity of _sigB_ allelic typing for _Listeria_, we characterized evolutionary patterns of _sigB_ and found that this gene is a relatively stable gene free from frequent homologous recombination and positive selection. _sigB_ allelic typing is a useful tool for _Listeria_ species classification. 
+*  {: .text-justify} Sequencing of _sigB_, which encodes a stress responsive alternative sigma factor, has emerged as a widely used molecular tool for rapid classification of diverse _Listeria_ isolates. To assess the validity of _sigB_ allelic typing for _Listeria_, we characterized the evolutionary patterns of _sigB_ and found that this gene is a relatively stable gene free from frequent homologous recombination and positive selection. _sigB_ allelic typing is a useful tool for _Listeria_ species classification. 
 
    __Liao J__, Wiedmann M, Kovac J. [Genetic stability and evolution of the _sigB_ allele, used for _Listeria sensu stricto_ subtyping and phylogenetic inference.](http://aem.asm.org/content/83/12/e00306-17.abstract){:target="_blank"} _Appl Environ Microbiol_ 83:e00306-17
 
