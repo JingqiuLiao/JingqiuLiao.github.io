@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### 2020
-[Terrestrial landscape impacts the biogeographic pattern of soil _Escherichia coli_ via altering the strength of environmental selection and dispersal](https://www.biorxiv.org/content/10.1101/2020.06.30.181495v1.abstract){:target="_blank"}\\
+[Adjacent terrestrial landscapes impact the biogeographical pattern of soil _Escherichia coli_ in produce fields by modifying the importance of environmental selection and dispersal](https://www.biorxiv.org/content/10.1101/2020.06.30.181495v2){:target="_blank"}\\
 __Liao J__, Bergholz P, Wiedmann M. _bioRxiv_ doi:10.1101/2020.06.30.181495
 
 [A phage-encoded anti-CRISPR enables complete evasion of type VI-A CRISPR-Cas immunity](https://science.sciencemag.org/content/early/2020/05/27/science.abb6151){:target="_blank"}\\
