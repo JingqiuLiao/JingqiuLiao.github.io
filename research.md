@@ -52,7 +52,7 @@ Understanding ecological forces driving the change in microbial composition from
 
 *  {: .text-justify} High quality habitat (e.g., forest) for wildlife in watershed adjacent to produce fields may increase risk for contamination of agricultural products by enteric bacteria, including _E. coli_. Understanding how landscape of watershed impacts the distribution of edaphic _E. coli_ is thus essential in this aspect. By sampling and characterizing _E. coli_ from watersheds dominated by either forest or produce fields and by developing wildlife-driven dispersal models, we found that watershed landscape patterns influence the distribution of _E. coli_ by adjusting the importance of environmental selection and dispersal. 
 
-   __Liao J__, Bergholz P, Wiedmann M. [Terrestrial landscape impacts the biogeographic pattern of soil _Escherichia coli_ via altering the strength of environmental selection and dispersal.](https://www.biorxiv.org/content/10.1101/2020.06.30.181495v1.abstract){:target="_blank"} _bioRxiv_ doi:10.1101/2020.06.30.181495
+   __Liao J__, Bergholz P, Wiedmann M. [Adjacent terrestrial landscapes impact the biogeographical pattern of soil _Escherichia coli_ in produce fields by modifying the importance of environmental selection and dispersal](https://www.biorxiv.org/content/10.1101/2020.06.30.181495v2){:target="_blank"} _bioRxiv_ doi:10.1101/2020.06.30.181495
 
 ![image-right](/assets/images/Research/Slide6.png){: .align-right}
 
