@@ -17,8 +17,8 @@ My research interests span microbial evolution, microbial ecology, environmental
 - Oct 2020: Honored to be invited as a topic editor for _Frontiers in Water_. Please consider to submit your manuscript to our Research Topic [Functional Diversity of Aquatic Microorganisms and Their Roles in Water Quality](https://www.frontiersin.org/research-topics/17055/functional-diversity-of-aquatic-microorganisms-and-their-roles-in-water-quality){:target="_blank"}!
 <!-- - Oct 2020: Our paper "Ångström- and nano-scale pore-based nucleic acid sequencing of current and emergent pathogens" was accepted to MRS Advances! -->
 - Oct 2020: Our new [preprint](https://www.biorxiv.org/content/10.1101/2020.06.30.181495v2){:target="_blank"} is out!
-- Aug 2020: Presented our work about the biogeography of _Listeria_ at [MEEvirtual](https://www.meevirtual.org){:target="_blank"}!
 - Sep 2020: Started my postdoctoral journey at Columbia!
+- Aug 2020: Presented our work about the biogeography of _Listeria_ at [MEEvirtual](https://www.meevirtual.org){:target="_blank"}!
 - Jul 2020: Successfully defended my Ph.D. dissertation!
   
 
