@@ -14,7 +14,7 @@ My research interests span microbial evolution, microbial ecology, environmental
 
 ### News
 - Nov 2020: Our [review paper](https://www.cambridge.org/core/journals/mrs-advances/article/angstrom-and-nanoscale-porebased-nucleic-acid-sequencing-of-current-and-emergent-pathogens/E2A1A912402C3993C3F99668A8567FB4){:target="_blank"} is live on _MRS Advances_!
-- Oct 2020: Honored to be invited as a topic editor for _Frontiers in Water_. Please consider to submit your research to our Research Topic [Functional Diversity of Aquatic Microorganisms and Their Roles in Water Quality](https://www.frontiersin.org/research-topics/17055/functional-diversity-of-aquatic-microorganisms-and-their-roles-in-water-quality){:target="_blank"}!
+- Oct 2020: Honored to be invited as a topic editor for _Frontiers in Water_. Please consider submitting your research to our Research Topic [Functional Diversity of Aquatic Microorganisms and Their Roles in Water Quality](https://www.frontiersin.org/research-topics/17055/functional-diversity-of-aquatic-microorganisms-and-their-roles-in-water-quality){:target="_blank"}!
 <!-- - Oct 2020: Our paper "Ångström- and nano-scale pore-based nucleic acid sequencing of current and emergent pathogens" was accepted to MRS Advances! -->
 - Oct 2020: Our new [preprint](https://www.biorxiv.org/content/10.1101/2020.06.30.181495v2){:target="_blank"} is out!
 - Sep 2020: Started my postdoctoral journey at Columbia!
