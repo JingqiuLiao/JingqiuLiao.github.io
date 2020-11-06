@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 ### 2020
+[Ångström- and nano-scale pore-based nucleic acid sequencing of current and emergent pathogens](https://www.cambridge.org/core/journals/mrs-advances/article/angstrom-and-nanoscale-porebased-nucleic-acid-sequencing-of-current-and-emergent-pathogens/E2A1A912402C3993C3F99668A8567FB4){:target="_blank"}\\
+Shepherd AB, Md Tanjil R, Jeong Y, Baloğlu B#, __Liao J#__, Wang MC#. _MRS Advances_ 1-18
+
 [Adjacent terrestrial landscapes impact the biogeographical pattern of soil _Escherichia coli_ in produce fields by modifying the importance of environmental selection and dispersal](https://www.biorxiv.org/content/10.1101/2020.06.30.181495v2){:target="_blank"}\\
 __Liao J__, Bergholz P, Wiedmann M. _bioRxiv_ doi:10.1101/2020.06.30.181495
 

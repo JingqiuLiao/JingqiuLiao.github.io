@@ -20,7 +20,10 @@ author:
       url: "https://www.researchgate.net/profile/Jingqiu_Liao2"
     - label: "Resume"
       icon: "fas fa-fw fa-file"
-      url: "/assets/cv/JingqiuLiao_CV.pdf"  
+      url: "/assets/cv/JingqiuLiao_CV.pdf" 
+    - label: "Twitter"
+      icon: "fas fa-fw fa-twitter"
+      url: "https://twitter.com/JingqiuLiaof"  
 
 # Build settings
 markdown: kramdown
