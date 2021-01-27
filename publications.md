@@ -10,7 +10,7 @@ __Liao J__, Bergholz P, Wiedmann M. _Appl Environ Microbiol_ doi:10.1128/AEM.025
 
 ### 2020
 [Ångström- and nano-scale pore-based nucleic acid sequencing of current and emergent pathogens](https://www.cambridge.org/core/journals/mrs-advances/article/angstrom-and-nanoscale-porebased-nucleic-acid-sequencing-of-current-and-emergent-pathogens/E2A1A912402C3993C3F99668A8567FB4){:target="_blank"}\\
-Shepherd AB, Md Tanjil R, Jeong Y, Baloğlu B#, __Liao J#__, Wang MC#. _MRS Advances_ 1-18
+Shepherd AB, Md Tanjil R, Jeong Y, Baloğlu B#, __Liao J#__, Wang MC#. _MRS Advances_ 5:2889-2906
 
 [A phage-encoded anti-CRISPR enables complete evasion of type VI-A CRISPR-Cas immunity](https://science.sciencemag.org/content/early/2020/05/27/science.abb6151){:target="_blank"}\\
 Meeske AJ, Jia N, Cassel AK, Kozlova A, __Liao J__, Wiedmann M, Patel DJ, Marraffini LA. _Science_ 369:54-59
@@ -24,7 +24,7 @@ __Liao J__, Orsi RH, Carroll LM, Kovac J, Ou H, Zhang H, Wiedmann M. _BMC Evol B
 
 ### 2018
 [Oil contamination and toxicity assessment of soil in main oil fields of China](#){:target="_blank"}\\
-Huang Y, Wang J, Chen H, __Liao J__, Huang M.  Science Press, Beijing, China. (Book)
+Huang Y, Wang J, Chen H, __Liao J__, Huang M.  Science Press, Beijing, China.
 
 ### 2017
 [Genetic stability and evolution of the _sigB_ allele, used for _Listeria sensu stricto_ subtyping and phylogenetic inference](http://aem.asm.org/content/83/12/e00306-17.abstract){:target="_blank"}\\
@@ -44,7 +44,7 @@ __Liao J__, Zhao L, Cao X, Sun J, Gao Z, Wang J, Jiang D, Fan H, Huang Y. _Sci R
 __Liao J__, Cao X, Zhao L, Wang J, Gao Z, Wang MC, Huang Y. _FEMS Microbiol Ecol_ 92:fiw174
 
 [Oxidative damage of naphthenic acids on the _Eisenia fetida_ earthworm](http://dx.doi.org/10.1002/tox.22139){:target="_blank"}\\
-Wang J, Cao X, Chai L, __Liao J__, Huang Y, Tang X. _Environ Toxico_ 31:1337-1343
+Wang J, Cao X, Chai L, __Liao J__, Huang Y, Tang X. _Environ Toxicol_ 31:1337-1343
 
 ### 2015
 [Long-term oil contamination causes similar changes in microbial communities of two distinct soils](http://dx.doi.org/10.1007/s00253-015-6880-y){:target="_blank"}\\
